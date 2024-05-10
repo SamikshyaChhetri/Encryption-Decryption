@@ -55,7 +55,6 @@ input:hover {
   color: white;
   border-radius: 10px;
 }
-
 #encryption:hover {
   box-shadow: none;
   cursor: pointer;
